@@ -9,7 +9,7 @@ interface ParsedJob {
   description: string;
 }
 
-const GEMINI_API_KEY = 'REMOVED_SECRET';
+const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
 const EXAMPLE_QUERIES = [
