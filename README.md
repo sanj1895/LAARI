@@ -1,6 +1,6 @@
 # LAARI - a HPC Risk Analysis Platform
 
-A platform that makes high-performance computing accessible for financial risk analysis. Analysts can run massive simulations without knowing anything about clusters, schedulers, or parallel computing. Just describe what you want in plain English, and the system does the rest.
+A platform that makes high-performance computing accessible for financial risk analysis. Analysts can run massive simulations without knowing anything about clusters, schedulers, or parallel computing. Just describe what you want in plain English, and the system does the rest. Built at TAMUHack 2026 with Riya Patel, Manasa Kilaru, and Diya Patel. Re-hosted here from our team repo.
 
 ---
 
